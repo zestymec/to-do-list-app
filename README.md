@@ -1,0 +1,31 @@
+# To-Do List App
+
+A clean, simple, and fully functional To-Do List built with pure HTML, CSS, and JavaScript.
+
+### Live Demo
+[View Live Demo](https://zestymec.github.io/to-do-list/)
+
+### Features
+- Add new tasks easily
+- Mark tasks as completed with a single click
+- Delete tasks
+- Tasks are automatically saved
+- Clean and responsive design
+
+### Privacy & Data Security
+All your tasks are saved **locally on your device** using browser `localStorage`.  
+This means:
+- Your data never leaves your computer
+- No server or third-party database is used
+- Your tasks remain completely private and secure
+
+### Technologies Used
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- localStorage for data persistence
+
+---
+
+Made with ❤️ by Muhammad Umer Aziz  
+Feel free to use, modify, or contribute!
