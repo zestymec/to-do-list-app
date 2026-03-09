@@ -3,7 +3,7 @@
 A clean, simple, and fully functional To-Do List built with pure HTML, CSS, and JavaScript.
 
 ### Live Demo
-[View Live Demo](https://zestymec.github.io/to-do-list/)
+View Live Demo : (https://zestymec.github.io/to-do-list/)
 
 ### Features
 - Add new tasks easily
