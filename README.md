@@ -20,9 +20,9 @@ This means:
 - Your tasks remain completely private and secure
 
 ### Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
+- Next.Js
+- Typescript and Javascript
+- Tailwind
 - localStorage for data persistence
 
 ---
